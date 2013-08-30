@@ -6,9 +6,9 @@ rdiscount:
 title : Arvind Naidu
 production_url : http://arvind-naidu.github.io
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Arvind Naidu."
-disqus_shortname: arvind-naidu
+disqus_shortname: arvindnaidublog
 # analytics: UA-32899481-1
-gauges: 50f1f940613f5d2cfe000026
+# gauges: 50f1f940613f5d2cfe000026
 author :
   name : Arvind Naidu
   github : arvind-naidu
