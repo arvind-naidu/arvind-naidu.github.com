@@ -1,4 +1,4 @@
-# [My blog](http://arvind-naidu.github.io)
+#[My blog](http://arvind-naidu.github.io)#
 
 > A place where I rant about latests project, gadgets and programming.
 
