@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sublime Text:Programmers Only Love"
+title: "Sublime Text: Programmers Only Love"
 ---
 
 > *Sublime Text 2/3 - A tool any developer will fall in love with!*
