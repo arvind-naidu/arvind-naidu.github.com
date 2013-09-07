@@ -39,6 +39,7 @@ Sublime Text 2, here on known as ST was my choice of editor since I'm running Li
 [Git]: http:// "Git"
 [Heroku]: http:// "Heroku"
 [Rails]: http:// "Rails"
+[ST2]: http:// "Sublime Text 2"
 [Linux]: http:// "Installing ST on Linux"
 [Mac]: http:// "Installing ST on Mac"
 [Windows]: http:// "Installing ST on Windows"
