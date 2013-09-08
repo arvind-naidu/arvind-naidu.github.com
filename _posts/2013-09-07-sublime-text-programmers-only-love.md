@@ -31,7 +31,7 @@ Even after themeing it, I wasn't pleased as I had to do many things leaving ST2 
 
 With hope of doing everything in ST2 itself, I embarked on another journey and found a solution to my problem. I found [Git for ST2][Git4ST2] to push my codes from ST2 itself, [Sidebar Enhancements][SE] that took care of my launching of web files in the browser and finally [Markdown Preview][MP] which allowed me to view syntax for Markdown in ST2 itself and also previewing Markdown files in the browser before publishing.
 
-After having done all the above, I finally can say that Sublime Text 2 is a must have tool for any programmer/developer out there. :)
+**After having done all the above, I finally can say that Sublime Text 2 is a must have tool for any programmer/developer out there. :)**
 
 [N++]: http://notepad-plus-plus.org/ "Notepad++"
 [VS]: https://www.microsoft.com/visualstudio/eng "Visual Studio"
