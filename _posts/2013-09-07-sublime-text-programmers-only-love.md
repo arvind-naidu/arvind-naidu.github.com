@@ -9,7 +9,7 @@ Being a developer for almost 6 years, I've tried almost all kinds of text editor
 
 **Recently however, I made a switch and trust me, it has been the best decision so far at least programming-wise. :P** 
 
-Being a programmer proficient with many languages, Vim however wasn't good enough and me getting involved in a new project beased on Ruby on Rails called [Instajob][IJ] required me to work with many other things together.
+Being a programmer proficient with many languages, Vim however wasn't good enough and me getting involved in a new project based on Ruby on Rails called [Instajob][IJ] required me to work with many other things together.
 
 [Github][GH] with [Git][Git], [Heroku][Heroku], and also developing on [Ruby on Rails][Rails] required me to use something far more flexible. So, I ditched Vim; *the editor you need to read two books atleast* and finally made way for [Sublime Text 2][ST2].
 
