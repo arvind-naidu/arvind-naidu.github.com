@@ -31,13 +31,15 @@ $ localtunnel -k ~/.ssh/id_rsa.pub 8000
 
 You’ll see something like this in your terminal:
 
-➜  project_name git:(develop) localtunnel 8000
+{% highlight javascript %}
+   project_name git:(develop) localtunnel 8000
    This localtunnel service is brought to you by Twilio.
-   Port 8000 is now publicly accessible from http://xxxx.localtunnel.com ...
+   Port 8000 is now publicly accessible from http://xxxx.localtunnel.com...
+{% endhighlight %}
 
 Now just share `http://xxxx.localtunnel.com` with whoever that needs to see your work.
 
-Subsequently you can just use localtunnel <port> to generate a public URL:
+Subsequently, you can just use localtunnel <port> to generate a public URL:
 
 {% highlight javascript %}
 $ localtunnel 8000
