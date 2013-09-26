@@ -3,13 +3,20 @@ layout: page
 title: "Arvind Naidu - Blog"
 cover: "https://dl.dropboxusercontent.com/s/dm8tkmwwfh6mzeu/blog-1.jpg?token_hash=AAFF51PLermYPcIgXslJcL-oQglyJghclfpTUhvaMuGZVg&dl"
 ---
-
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
+	
+<div class="panel panel-info">
+	<div class="panel-heading">
+		My Posts
+  	</div>
+  	<div class="panel-body">
+		<section class="content">
+  			<ul class="listing">
+    			{% for post in site.posts %}
+    			<li>
+      			<span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+    			</li>
+    			{% endfor %}
+  			</ul>
+		</section>
+ 	</div>
+ </div>
